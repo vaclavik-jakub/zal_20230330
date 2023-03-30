@@ -19,6 +19,7 @@ basic.forever(function () {
     input.onButtonPressed(Button.A, function() {
         for (let a = 0; a <= 10; a++) {
             music.playMelody("", 120)
+            
                 if (center == 1) {
 
                 } else {
